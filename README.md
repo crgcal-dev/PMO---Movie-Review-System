@@ -2,9 +2,9 @@
 PMO - Movie Review
 
 **Co-Authors:**
-Caluscusin, Brian
-Garcia, Carlo
-Sucalit, Ross
+Brian Caluscusin
+Carlo Garcia
+Ross Sucalit
 
 **Purpose of Project:**
 Collaborative learning beyond the scope of work
